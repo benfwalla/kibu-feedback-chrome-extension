@@ -2,7 +2,7 @@
 
 A simple Chrome extension that allows team members to easily submit feedback and bug reports for the Kibu web application. Feedback is sent directly to Slack for immediate team visibility.
 
-![Extension Preview](preview.jpg)
+![Extension Preview](preview.png)
 
 ## Configuration
 
